@@ -5,7 +5,7 @@ Student Developer at [IUT Robert Schuman](https://iutrs.unistra.fr/) <img src="h
 ```javascript
 const Spidermatou = {
   pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP", "C", "C#"],
+    code: ["Javascript", "PHP", "Python", "Java", "C", "C#"],
     askMeAbout: ["student dev"],
     technologies: {
         backEnd: {
