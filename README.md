@@ -17,7 +17,7 @@ const Spidermatou = {
             php: ["Laravel"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            Java: ["Android Development"]
         },
         databases: ["SqlPlus", "MySql", "sqlite"],
     },
