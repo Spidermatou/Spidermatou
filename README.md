@@ -15,6 +15,7 @@ const Spidermatou = {
         backEnd: {
             js: ["Node", "React"],
             php: ["Laravel"],
+            python: ["Django"]
         },
         mobileApp: {
             Java: ["Android Development"]
