@@ -22,7 +22,6 @@ const Spidermatou = {
         },
         databases: ["SqlPlus", "MySql", "PostgreSQL", "sqlite"],
     },
-    currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
