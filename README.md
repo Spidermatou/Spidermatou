@@ -13,7 +13,7 @@ const Spidermatou = {
     askMeAbout: ["student dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "React", "Remix"],
+            js: ["Express", "Remix"],
             php: ["Laravel"],
             python: ["Django"]
         },
