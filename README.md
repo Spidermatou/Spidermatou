@@ -14,7 +14,7 @@ const Spidermatou = {
     technologies: {
         backEnd: {
             js: ["Express", "Remix"],
-            php: ["Laravel"],
+            php: ["Laravel", "Symfony"],
             python: ["Django"]
         },
         mobileApp: {
